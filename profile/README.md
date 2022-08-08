@@ -18,6 +18,14 @@ Want to get 1 on 1 mentorship to supercharge or kick start your career? I also d
 
 - [My VS Code settings and snippets](https://bit.ly/3p24GqZ)
 - [NextJS Tailwind Starter](https://bit.ly/3oZ3YLl)
+- [NextJS Tailwind Starter](https://bit.ly/3AfhgKd)
+
+## Coming soon!
+
+- [NextJS Mongo Tailwind Starter]()
+- Pro kits, complete with UIs and styling! (TailwindCSS)
+
+
 
 ## How to videos
 
