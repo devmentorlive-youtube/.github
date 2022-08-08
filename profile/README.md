@@ -3,12 +3,15 @@
 ## Hi, I'm Mark Tellez and I have been a professional web developer since 1997!
 
 Consider giving me a buck or two for the content I create for you!
+
 🙏 https://bit.ly/3P5QEiI
 
 Join the discussion on Discord!
+
 💬 https://bit.ly/3d7yHmF
 
 Want to get 1 on 1 mentorship to supercharge or kick start your career? I also do interview prep!
+
 👉🏽 https://bit.ly/3cimsNQ
 
 ## Useful links
