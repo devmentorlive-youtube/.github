@@ -1,3 +1,5 @@
+https://aialignmenttest.com/ - take your AI Compass test and find out where you fit in: E/ACC EA E/DEC Transhumanist
+
 # DevmentorLive (Mark Tellez) Public Repos and Starter Kits
 
 ## Hi, I'm Mark Tellez and I have been a professional web developer since 1997!
